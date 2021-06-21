@@ -1,0 +1,6 @@
+framework module Pods_STEPTests {
+  umbrella header "Pods-STEPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
